@@ -1,0 +1,3107 @@
+2016-05-09 10:17:58,418 - __main__ - INFO - test loggin
+2016-05-09 10:17:58,418 - __main__ - INFO - {"query" : "holiday"}
+2016-05-09 10:17:58,418 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-09 10:17:58,418 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-09 10:17:58,418 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-09 10:17:58,418 - __main__ - INFO - 
+2016-05-10 11:08:09,287 - __main__ - INFO - test loggin
+2016-05-10 11:08:09,545 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Bh6Vo5yRdFF",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-10T11:08:06Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "173",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-10 11:08:09,546 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-10 11:08:09,546 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-10 11:08:09,546 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-10 11:08:09,546 - __main__ - INFO - 
+2016-05-10 11:09:43,779 - __main__ - INFO - test loggin
+2016-05-10 11:09:44,035 - __main__ - INFO - {
+  "type": "Message",
+  "id": "8vANpIQILW7",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-10T11:09:42Z",
+  "language": "en",
+  "text": "hello?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "175",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-10 11:09:44,035 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-10 11:09:44,035 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-10 11:09:44,035 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-10 11:09:44,036 - __main__ - INFO - 
+2016-05-11 06:51:10,095 - __main__ - INFO - test loggin
+2016-05-11 06:51:10,352 - __main__ - INFO - {
+  "type": "Message",
+  "id": "LYtJ9yiUeAU",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T06:51:08Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "179",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 06:51:10,353 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 06:51:10,354 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 06:51:10,354 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 06:51:10,355 - __main__ - INFO - 
+2016-05-11 06:52:26,145 - myproject - INFO - test loggin
+2016-05-11 06:52:26,405 - myproject - INFO - {
+  "type": "Message",
+  "id": "H0YqPhwedtI",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T06:52:25Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "180",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 06:52:26,405 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 06:52:26,405 - myproject - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 06:52:26,405 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 06:52:26,405 - myproject - INFO - 
+2016-05-11 06:57:21,472 - __main__ - INFO - test loggin
+2016-05-11 06:57:21,732 - __main__ - INFO - {
+  "type": "Message",
+  "id": "K91Ed1wH1LB",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T06:57:19Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "181",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 06:57:21,732 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 06:57:21,732 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 06:57:21,732 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 06:57:21,732 - __main__ - INFO - 
+2016-05-11 07:04:42,326 - __main__ - INFO - test loggin
+2016-05-11 07:04:42,582 - __main__ - INFO - {
+  "type": "Message",
+  "id": "E6WdtnQt0Hh",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:04:41Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "183",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:04:42,582 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:04:42,583 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:04:42,583 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:04:42,583 - __main__ - INFO - 
+2016-05-11 07:04:43,640 - __main__ - INFO - test loggin
+2016-05-11 07:04:43,901 - __main__ - INFO - {
+  "type": "Message",
+  "id": "CedGMLHX380",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:04:41Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "183",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:04:43,902 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:04:43,902 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:04:43,902 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:04:43,902 - __main__ - INFO - 
+2016-05-11 07:04:54,491 - __main__ - INFO - test loggin
+2016-05-11 07:04:54,750 - __main__ - INFO - {
+  "type": "Message",
+  "id": "9NPubu56PCr",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:04:41Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "183",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:04:54,750 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:04:54,750 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:04:54,750 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:04:54,751 - __main__ - INFO - 
+2016-05-11 07:05:05,841 - __main__ - INFO - test loggin
+2016-05-11 07:05:06,100 - __main__ - INFO - {
+  "type": "Message",
+  "id": "AiuiPzXqI5x",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:04:41Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "183",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:05:06,100 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:06,100 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:05:06,100 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:06,100 - __main__ - INFO - 
+2016-05-11 07:05:22,261 - myproject - INFO - test loggin
+2016-05-11 07:05:22,521 - myproject - INFO - {
+  "type": "Message",
+  "id": "5myqT51srvk",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:05:21Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "184",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:05:22,521 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:22,521 - myproject - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:05:22,521 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:22,521 - myproject - INFO - 
+2016-05-11 07:05:23,549 - myproject - INFO - test loggin
+2016-05-11 07:05:23,807 - myproject - INFO - {
+  "type": "Message",
+  "id": "CnicGSUUVIj",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:05:21Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "184",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:05:23,807 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:23,807 - myproject - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:05:23,807 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:23,807 - myproject - INFO - 
+2016-05-11 07:05:35,002 - myproject - INFO - test loggin
+2016-05-11 07:05:35,262 - myproject - INFO - {
+  "type": "Message",
+  "id": "F30KL9RvNM",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:05:21Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "184",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:05:35,262 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:35,262 - myproject - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:05:35,262 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:35,262 - myproject - INFO - 
+2016-05-11 07:05:46,319 - myproject - INFO - test loggin
+2016-05-11 07:05:46,576 - myproject - INFO - {
+  "type": "Message",
+  "id": "8M5fmxbTzib",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:05:21Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "184",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:05:46,576 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:46,576 - myproject - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:05:46,576 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:05:46,576 - myproject - INFO - 
+2016-05-11 07:08:59,529 - __main__ - INFO - test loggin
+2016-05-11 07:08:59,787 - __main__ - INFO - {
+  "type": "Message",
+  "id": "LnhsJfcN4CD",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:08:57Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "187",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:08:59,787 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:08:59,787 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:08:59,787 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:08:59,787 - __main__ - INFO - 
+2016-05-11 07:09:00,776 - __main__ - INFO - test loggin
+2016-05-11 07:09:01,036 - __main__ - INFO - {
+  "type": "Message",
+  "id": "IVMHwgddUSV",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:08:57Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "187",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:09:01,036 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:09:01,036 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:09:01,036 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:09:01,036 - __main__ - INFO - 
+2016-05-11 07:09:11,690 - __main__ - INFO - test loggin
+2016-05-11 07:09:11,948 - __main__ - INFO - {
+  "type": "Message",
+  "id": "BCvXKud49Ea",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:08:57Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "187",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:09:11,949 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:09:11,949 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:09:11,949 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:09:11,949 - __main__ - INFO - 
+2016-05-11 07:09:22,978 - __main__ - INFO - test loggin
+2016-05-11 07:09:23,238 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Jb0gNHE510L",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:08:57Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "187",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:09:23,239 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:09:23,239 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:09:23,239 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:09:23,239 - __main__ - INFO - 
+2016-05-11 07:11:04,403 - __main__ - INFO - test loggin
+2016-05-11 07:11:04,660 - __main__ - INFO - {
+  "type": "Message",
+  "id": "HukQRbCSm7A",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:11:02Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "188",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:11:04,660 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:11:04,660 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:11:04,660 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:11:04,660 - __main__ - INFO - 
+2016-05-11 07:11:31,114 - myproject - INFO - test loggin
+2016-05-11 07:11:31,372 - myproject - INFO - {
+  "type": "Message",
+  "id": "719eHcjjPQ6",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:11:02Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "188",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:11:31,372 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:11:31,372 - myproject - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:11:31,373 - myproject - INFO - ImmutableMultiDict([])
+2016-05-11 07:11:31,373 - myproject - INFO - 
+2016-05-11 07:19:31,454 - __main__ - INFO - test loggin
+2016-05-11 07:19:31,713 - __main__ - INFO - {
+  "type": "Message",
+  "id": "IWHWxN1NCc4",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:19:29Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "191",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:19:31,713 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:19:31,713 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:19:31,713 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:19:31,713 - __main__ - INFO - 
+2016-05-11 07:20:35,168 - __main__ - INFO - test loggin
+2016-05-11 07:20:35,426 - __main__ - INFO - {
+  "type": "Message",
+  "id": "A3maGLXx6ix",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:20:34Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "192",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:20:35,426 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:20:35,426 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:20:35,426 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:20:35,426 - __main__ - INFO - 
+2016-05-11 07:22:56,991 - __main__ - INFO - test loggin
+2016-05-11 07:22:57,248 - __main__ - INFO - {
+  "type": "Message",
+  "id": "9xO6gYkCvsh",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:22:54Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "194",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:22:57,248 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:22:57,248 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:22:57,248 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:22:57,248 - __main__ - INFO - 
+2016-05-11 07:25:23,723 - __main__ - INFO - test loggin
+2016-05-11 07:25:23,983 - __main__ - INFO - {
+  "type": "Message",
+  "id": "DZA22U63Fto",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:25:21Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "196",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:25:23,983 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:25:23,983 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:25:23,983 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:25:23,983 - __main__ - INFO - 
+2016-05-11 07:29:30,218 - __main__ - INFO - test loggin
+2016-05-11 07:29:30,478 - __main__ - INFO - {
+  "type": "Message",
+  "id": "KHBXHpU5S6Y",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:29:28Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "198",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:29:30,478 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:29:30,478 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:29:30,478 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:29:30,478 - __main__ - INFO - 
+2016-05-11 07:30:32,741 - __main__ - INFO - test loggin
+2016-05-11 07:30:33,001 - __main__ - INFO - {
+  "type": "Message",
+  "id": "3eM0UFIyBET",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:30:31Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "200",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:30:33,001 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:30:33,001 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:30:33,001 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:30:33,001 - __main__ - INFO - 
+2016-05-11 07:32:57,387 - __main__ - INFO - test loggin
+2016-05-11 07:32:57,646 - __main__ - INFO - {
+  "type": "Message",
+  "id": "JLGcedtJPqr",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:32:55Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "202",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:32:57,647 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:32:57,647 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:32:57,647 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:32:57,647 - __main__ - INFO - 
+2016-05-11 07:34:27,123 - __main__ - INFO - test loggin
+2016-05-11 07:34:27,380 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Gy29cSuU8Dr",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:34:26Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "204",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:34:27,380 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:34:27,380 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:34:27,380 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:34:27,380 - __main__ - INFO - 
+2016-05-11 07:34:55,054 - __main__ - INFO - test loggin
+2016-05-11 07:34:55,310 - __main__ - INFO - {
+  "type": "Message",
+  "id": "IUtbWbMulos",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T07:34:26Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "204",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 07:34:55,311 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:34:55,311 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 07:34:55,311 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 07:34:55,311 - __main__ - INFO - 
+2016-05-11 08:25:30,432 - __main__ - INFO - test loggin
+2016-05-11 08:25:30,692 - __main__ - INFO - {
+  "type": "Message",
+  "id": "8Ty1XHR9wwb",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:25:27Z",
+  "language": "en",
+  "text": "holiday",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "207",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:25:30,693 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:25:30,693 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:25:30,693 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:25:30,693 - __main__ - INFO - 
+2016-05-11 08:27:10,232 - __main__ - INFO - test loggin
+2016-05-11 08:27:10,493 - __main__ - INFO - {
+  "type": "Message",
+  "id": "GsuRxSZPfql",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:27:08Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "209",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:27:10,494 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:27:10,494 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:27:10,494 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:27:10,494 - __main__ - INFO - 
+2016-05-11 08:28:55,921 - __main__ - INFO - test loggin
+2016-05-11 08:28:56,181 - __main__ - INFO - {
+  "type": "Message",
+  "id": "D4jfTB0i6wD",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:28:53Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "210",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:28:56,181 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:28:56,181 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:28:56,181 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:28:56,181 - __main__ - INFO - 
+2016-05-11 08:29:34,599 - __main__ - INFO - test loggin
+2016-05-11 08:29:34,858 - __main__ - INFO - {
+  "type": "Message",
+  "id": "4Eep4dvRnge",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:29:33Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "212",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:29:34,859 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:29:34,859 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:29:34,859 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:29:34,859 - __main__ - INFO - 
+2016-05-11 08:30:28,485 - __main__ - INFO - test loggin
+2016-05-11 08:30:28,744 - __main__ - INFO - {
+  "type": "Message",
+  "id": "KmYS5Gy5X5u",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:30:27Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "214",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:30:28,744 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:30:28,744 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:30:28,744 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:30:28,744 - __main__ - INFO - 
+2016-05-11 08:30:59,175 - __main__ - INFO - test loggin
+2016-05-11 08:30:59,432 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Lsl5Mn8Uoyl",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:30:27Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "214",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:30:59,432 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:30:59,432 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:30:59,432 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:30:59,432 - __main__ - INFO - 
+2016-05-11 08:32:20,992 - __main__ - INFO - test loggin
+2016-05-11 08:32:21,249 - __main__ - INFO - {
+  "type": "Message",
+  "id": "JuO3YnPySf6",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:32:19Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "215",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:32:21,249 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:32:21,249 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:32:21,249 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:32:21,249 - __main__ - INFO - 
+2016-05-11 08:32:50,800 - __main__ - INFO - test loggin
+2016-05-11 08:32:51,061 - __main__ - INFO - {
+  "type": "Message",
+  "id": "HLdHl5DSTJs",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:32:19Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "215",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:32:51,061 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:32:51,061 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:32:51,061 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:32:51,061 - __main__ - INFO - 
+2016-05-11 08:34:11,082 - __main__ - INFO - test loggin
+2016-05-11 08:34:11,340 - __main__ - INFO - {
+  "type": "Message",
+  "id": "8UUqTFrnEyC",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:34:09Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "218",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:34:11,340 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:34:11,341 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:34:11,341 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:34:11,341 - __main__ - INFO - 
+2016-05-11 08:34:28,689 - __main__ - INFO - test loggin
+2016-05-11 08:34:28,951 - __main__ - INFO - {
+  "type": "Message",
+  "id": "37kl8K6LUXa",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:34:09Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "218",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:34:28,951 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:34:28,951 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:34:28,952 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:34:28,952 - __main__ - INFO - 
+2016-05-11 08:36:49,262 - __main__ - INFO - test loggin
+2016-05-11 08:36:49,520 - __main__ - INFO - {
+  "type": "Message",
+  "id": "GMllE9Ttp60",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:36:47Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "220",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:36:49,521 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:36:49,521 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:36:49,521 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:36:49,521 - __main__ - INFO - 
+2016-05-11 08:37:49,537 - __main__ - INFO - test loggin
+2016-05-11 08:37:49,794 - __main__ - INFO - {
+  "type": "Message",
+  "id": "L5lPsSzii4C",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:37:48Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "222",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:37:49,794 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:37:49,794 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:37:49,794 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:37:49,794 - __main__ - INFO - 
+2016-05-11 08:40:53,307 - __main__ - INFO - test loggin
+2016-05-11 08:40:53,564 - __main__ - INFO - {
+  "type": "Message",
+  "id": "GLz9fl6dZ8i",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:40:51Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "224",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:40:53,565 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:40:53,565 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:40:53,565 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:40:53,565 - __main__ - INFO - 
+2016-05-11 08:42:35,618 - __main__ - INFO - test loggin
+2016-05-11 08:42:35,877 - __main__ - INFO - {
+  "type": "Message",
+  "id": "9zIen2Mwwbt",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:42:33Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "226",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:42:35,877 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:42:35,877 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:42:35,877 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:42:35,877 - __main__ - INFO - 
+2016-05-11 08:43:38,433 - __main__ - INFO - test loggin
+2016-05-11 08:43:38,694 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Gjw2GLfPy0j",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:43:37Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "228",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:43:38,694 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:43:38,694 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:43:38,694 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:43:38,694 - __main__ - INFO - 
+2016-05-11 08:45:05,717 - __main__ - INFO - test loggin
+2016-05-11 08:45:05,978 - __main__ - INFO - {
+  "type": "Message",
+  "id": "EsWi7qzarou",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:45:03Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "230",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:45:05,978 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:45:05,978 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:45:05,978 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:45:05,978 - __main__ - INFO - 
+2016-05-11 08:46:47,019 - __main__ - INFO - test loggin
+2016-05-11 08:46:47,277 - __main__ - INFO - {
+  "type": "Message",
+  "id": "ClsChP31OYu",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:46:45Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "232",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:46:47,277 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:46:47,277 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:46:47,277 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:46:47,277 - __main__ - INFO - 
+2016-05-11 08:47:16,727 - __main__ - INFO - test loggin
+2016-05-11 08:47:16,990 - __main__ - INFO - {
+  "type": "Message",
+  "id": "24YUP7FtD55",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:46:45Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "232",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:47:16,990 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:47:16,990 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:47:16,990 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:47:16,990 - __main__ - INFO - 
+2016-05-11 08:48:40,568 - __main__ - INFO - test loggin
+2016-05-11 08:48:40,826 - __main__ - INFO - {
+  "type": "Message",
+  "id": "CYS6lcnLzJI",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:48:39Z",
+  "language": "en",
+  "text": "wassup",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "235",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:48:40,826 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:48:40,826 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:48:40,826 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:48:40,826 - __main__ - INFO - 
+2016-05-11 08:49:48,744 - __main__ - INFO - test loggin
+2016-05-11 08:49:49,004 - __main__ - INFO - {
+  "type": "Message",
+  "id": "9cUr64WF7Kj",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:48:53Z",
+  "language": "en",
+  "text": "holiday",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "236",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:49:49,004 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:49:49,005 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:49:49,005 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:49:49,005 - __main__ - INFO - 
+2016-05-11 08:50:40,359 - __main__ - INFO - test loggin
+2016-05-11 08:50:40,616 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Cwrv7gjJSFY",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:50:39Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "240",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:50:40,616 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:50:40,616 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:50:40,616 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:50:40,616 - __main__ - INFO - 
+2016-05-11 08:51:10,134 - __main__ - INFO - test loggin
+2016-05-11 08:51:10,392 - __main__ - INFO - {
+  "type": "Message",
+  "id": "IZZU0wnVjOk",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:50:39Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "240",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:51:10,392 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:51:10,393 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:51:10,393 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:51:10,393 - __main__ - INFO - 
+2016-05-11 08:51:16,762 - __main__ - INFO - test loggin
+2016-05-11 08:51:17,020 - __main__ - INFO - {
+  "type": "Message",
+  "id": "BhoBvJ1UOA5",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:51:09Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "241",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:51:17,020 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:51:17,020 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:51:17,020 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:51:17,021 - __main__ - INFO - 
+2016-05-11 08:51:48,390 - __main__ - INFO - test loggin
+2016-05-11 08:51:48,652 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Fx5BEwInkSS",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:51:47Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "244",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:51:48,652 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:51:48,652 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:51:48,652 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:51:48,653 - __main__ - INFO - 
+2016-05-11 08:52:34,463 - __main__ - INFO - test loggin
+2016-05-11 08:52:34,721 - __main__ - INFO - {
+  "type": "Message",
+  "id": "8ojPc4kZmdj",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:52:33Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "246",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:52:34,721 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:52:34,721 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:52:34,721 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:52:34,721 - __main__ - INFO - 
+2016-05-11 08:55:14,639 - __main__ - INFO - test loggin
+2016-05-11 08:55:14,897 - __main__ - INFO - {
+  "type": "Message",
+  "id": "9ag9yhZULoF",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:55:12Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "247",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:55:14,897 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:55:14,897 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:55:14,897 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:55:14,897 - __main__ - INFO - 
+2016-05-11 08:56:12,432 - __main__ - INFO - test loggin
+2016-05-11 08:56:12,691 - __main__ - INFO - {
+  "type": "Message",
+  "id": "HsnvrF0OCjb",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:56:10Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "249",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:56:12,691 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:56:12,691 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:56:12,691 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:56:12,691 - __main__ - INFO - 
+2016-05-11 08:57:04,429 - __main__ - INFO - test loggin
+2016-05-11 08:57:04,687 - __main__ - INFO - {
+  "type": "Message",
+  "id": "6iHQoteppUG",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:57:03Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "251",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:57:04,687 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:57:04,687 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:57:04,687 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:57:04,687 - __main__ - INFO - 
+2016-05-11 08:59:03,804 - __main__ - INFO - test loggin
+2016-05-11 08:59:04,066 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Ls7H03TMjjZ",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:59:01Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "253",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:59:04,066 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:59:04,067 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:59:04,067 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:59:04,067 - __main__ - INFO - 
+2016-05-11 08:59:15,667 - __main__ - INFO - test loggin
+2016-05-11 08:59:15,928 - __main__ - INFO - {
+  "type": "Message",
+  "id": "9HzHI9IUPCh",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T08:59:14Z",
+  "language": "en",
+  "text": "display number?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "255",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 08:59:15,928 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:59:15,928 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 08:59:15,928 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 08:59:15,928 - __main__ - INFO - 
+2016-05-11 09:00:18,332 - __main__ - INFO - test loggin
+2016-05-11 09:00:18,589 - __main__ - INFO - {
+  "type": "Message",
+  "id": "7O9kmMlF9bH",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T09:00:17Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "257",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 09:00:18,589 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:00:18,589 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 09:00:18,589 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:00:18,589 - __main__ - INFO - 
+2016-05-11 09:03:06,000 - __main__ - INFO - test loggin
+2016-05-11 09:03:06,211 - __main__ - INFO - {
+  "type": "Message",
+  "id": "L4f5ZXdXTJs",
+  "conversationId": "3cE57E9boGz9DQbEfUSqBdy8q380pBNNFHtEoC4c9FBz6XO",
+  "created": "2016-05-11T09:03:06.8870547Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "architrazdan",
+    "channelId": "slack",
+    "address": "U0ZS0ANRH",
+    "id": "FNjov8YLijB",
+    "isBot": false
+  },
+  "to": {
+    "name": "chatbotapp",
+    "channelId": "slack",
+    "address": "U0ZTPAGQZ",
+    "id": "a1",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "architrazdan",
+      "channelId": "slack",
+      "address": "U0ZS0ANRH",
+      "id": "FNjov8YLijB",
+      "isBot": false
+    },
+    {
+      "name": "chatbotapp",
+      "channelId": "slack",
+      "address": "U0ZTPAGQZ",
+      "id": "a1",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "D0ZT8CGQL-635985541860000000",
+  "channelConversationId": "D0ZT8CGQL",
+  "channelData": {
+    "type": "message",
+    "channel": "D0ZT8CGQL",
+    "user": "U0ZS0ANRH",
+    "text": "holiday?",
+    "ts": "1462957386.000002",
+    "team": "T0ZT5PA68"
+  },
+  "hashtags": []
+}
+2016-05-11 09:03:06,211 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:03:06,211 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 09:03:06,211 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:03:06,212 - __main__ - INFO - 
+2016-05-11 09:04:23,738 - __main__ - INFO - test loggin
+2016-05-11 09:04:23,994 - __main__ - INFO - {
+  "type": "Message",
+  "id": "Kb2rXskMw87",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T09:04:21Z",
+  "language": "en",
+  "text": "holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "chatbot",
+    "channelId": "telegram",
+    "address": "knowlaritybot",
+    "id": "a1",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "chatbot",
+      "channelId": "telegram",
+      "address": "knowlaritybot",
+      "id": "a1",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "125",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 09:04:23,994 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:04:23,994 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 09:04:23,994 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:04:23,995 - __main__ - INFO - 
+2016-05-11 09:30:42,161 - __main__ - INFO - test loggin
+2016-05-11 09:30:42,424 - __main__ - INFO - {
+  "type": "Message",
+  "id": "KMfND7YGGpg",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T09:30:39Z",
+  "language": "en",
+  "text": "holiday",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "259",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 09:30:42,424 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:30:42,424 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 09:30:42,424 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:30:42,424 - __main__ - INFO - 
+2016-05-11 09:35:19,363 - __main__ - INFO - test loggin
+2016-05-11 09:35:19,619 - __main__ - INFO - {
+  "type": "Message",
+  "id": "DnOT7MQ73DA",
+  "conversationId": "YH8JV9tZF0ABIW8IcGcU1b47ubDzQCGT3tq2KOC4bAjh24b",
+  "created": "2016-05-11T09:35:17Z",
+  "language": "en",
+  "text": "is it a holiday?",
+  "attachments": [],
+  "from": {
+    "name": "Archit Razdan",
+    "channelId": "telegram",
+    "address": "169393803",
+    "id": "5lZZIUrjLN3",
+    "isBot": false
+  },
+  "to": {
+    "name": "mynewbot",
+    "channelId": "telegram",
+    "address": "architrazdanbot",
+    "id": "a5",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "Archit Razdan",
+      "channelId": "telegram",
+      "address": "169393803",
+      "id": "5lZZIUrjLN3",
+      "isBot": false
+    },
+    {
+      "name": "mynewbot",
+      "channelId": "telegram",
+      "address": "architrazdanbot",
+      "id": "a5",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "261",
+  "channelConversationId": "169393803",
+  "hashtags": []
+}
+2016-05-11 09:35:19,619 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:35:19,619 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 09:35:19,619 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:35:19,619 - __main__ - INFO - 
+2016-05-11 09:44:09,461 - __main__ - INFO - test loggin
+2016-05-11 09:44:09,461 - __main__ - INFO - set holidaY?
+2016-05-11 09:44:09,461 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:44:09,461 - __main__ - INFO - CombinedMultiDict([ImmutableMultiDict([]), ImmutableMultiDict([])])
+2016-05-11 09:44:09,461 - __main__ - INFO - ImmutableMultiDict([])
+2016-05-11 09:44:09,461 - __main__ - INFO - 

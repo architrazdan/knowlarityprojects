@@ -1,0 +1,51 @@
+    1: from flask import Flask
+    1: from flask import request
+    1: import json
+       
+    1: application = Flask(__name__)
+    1: import logging
+    1: import sys
+    1: import traceback
+       
+    1: logger = logging.getLogger(__name__)
+    1: logger.setLevel(logging.INFO)
+       
+       # create a file handler
+       
+    1: handler = logging.FileHandler('arya.log')
+    1: handler.setLevel(logging.INFO)
+       
+       # create a logging format
+       
+    1: formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    1: handler.setFormatter(formatter)
+       
+       # add the handlers to the logger
+       
+    1: logger.addHandler(handler)
+       
+    1: @application.route("/", methods=['GET','POST'])
+       def hello():
+    5:     logger.info("test loggin")
+    5:     logger.info(request.data)
+    5:     logger.info(request.form)
+    5:     logger.info(request.values)
+    5:     logger.info(request.args)
+    5:     logger.info(request.query_string)
+    5:     if request.data:
+    4:         query_value = json.loads(request.data)['text']
+    4:         if query_value:
+    4:             query_value = query_value
+    4:             query_dict = {"query": query_value} if query_value else {"query":"holiday?"}
+    4:             print query_dict
+    4:             headers = {'Content-Type': 'application/json'}
+    4:             response = requests.post('http://console.arya.ai/api/v2/faq/query?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0ODk5MjA4OTQ0ODJ9.CidrYnV1NtJ7hrrjbNIROQ_2WqM2dPGOn1YLWqA9jMI&m_key=new_bot_module&app=bot_new_new',data=query_dict).content
+                   #return response
+                   print response
+           else:
+    1:         return "{response:error}"
+       
+    1: if __name__ == "__main__":
+    1:     application.run(host='0.0.0.0', port='8000')
+                                                                                                                                                                                                                 
+                                                           
